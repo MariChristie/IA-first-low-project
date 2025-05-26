@@ -1,0 +1,1 @@
+Start code: streamlit run app.py (in the Terminal)
